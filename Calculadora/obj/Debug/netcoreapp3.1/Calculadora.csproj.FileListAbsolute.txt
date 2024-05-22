@@ -1,0 +1,13 @@
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.deps.json
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.json
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.runtimeconfig.dev.json
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.dll
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.pdb
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfoInputs.cache
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfo.cs
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csproj.CoreCompileInputs.cache
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.dll
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.pdb
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/Calculadora.csproj": {}
+  },
+  "projects": {
+    "/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/Calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/Calculadora.csproj",
+        "packagesPath": "/home/fjose/.nuget/packages/",
+        "outputPath": "/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fjose/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/fjose/.dotnet/sdk/8.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
