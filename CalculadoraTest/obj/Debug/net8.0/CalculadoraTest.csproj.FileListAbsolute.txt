@@ -103,3 +103,4 @@
 /home/fjose/DEV/DIO/CalculadoraTestDIO/CalculadoraTest/obj/Debug/net8.0/CalculadoraTest.pdb
 /home/fjose/DEV/DIO/CalculadoraTestDIO/CalculadoraTest/obj/Debug/net8.0/CalculadoraTest.genruntimeconfig.cache
 /home/fjose/DEV/DIO/CalculadoraTestDIO/CalculadoraTest/obj/Debug/net8.0/ref/CalculadoraTest.dll
+/home/fjose/DEV/DIO/CalculadoraTestDIO/CalculadoraTest/obj/Debug/net8.0/CalculadoraTest.sourcelink.json

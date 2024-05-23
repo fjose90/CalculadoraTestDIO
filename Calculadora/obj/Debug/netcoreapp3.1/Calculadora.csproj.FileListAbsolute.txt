@@ -11,3 +11,4 @@
 /home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.dll
 /home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.pdb
 /home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.genruntimeconfig.cache
+/home/fjose/DEV/DIO/CalculadoraTestDIO/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.sourcelink.json
